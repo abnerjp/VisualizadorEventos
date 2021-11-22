@@ -34,5 +34,6 @@
                 <Label Text="Fatec - Presidente Prudente" HorizontalOptions="CenterAndExpand"/>
             </StackLayout>
         </StackLayout>
+        
     </ContentPage.Content>
 </ContentPage>
